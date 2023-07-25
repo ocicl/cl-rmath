@@ -1,0 +1,10 @@
+* cl-rmath
+
+Common Lisp wrapper for libRmath.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/tpapp/cl-rmath.git   |
+| commit  | f6add1e  |
+| systems | cl-rmath |
+|---------+-------------------------------------------|
+
